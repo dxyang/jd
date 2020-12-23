@@ -3,7 +3,7 @@
 
 MOUNT_HOST=/data
 MOUNT_CONTAINER=/data
-CONTAINER=/data/vision/fisher/expres2/dxyang/singularity/jupyter_docker-0.1.0.simg
+CONTAINER=/data/vision/fisher/expres2/dxyang/singularity/jupyter_docker-0.1.simg
 
 # Run container with NFS and possibly GPU access.
 # Assumes the container is already built and is in the current directory.
